@@ -19,6 +19,7 @@ This project is a simulation of four CPU scheduling algorithms:
    ```sh
    cd path/to/CPU-Scheduling-Simulator
 
+
 Example 
     Enter number of processes: 4
 Enter Process ID, Arrival Time, Burst Time:
